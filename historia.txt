@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Holi Yu
 ten un excelente dia
 hoy hablaremos de su vida y obra maestra.
+=======
+Esta es la vida de Yuri Ochoa
+Ella tiene 28 años de edad y nacio en colombia
+hoy hablaremos de su historia.
+mañana nos enfocaremos en su vida laboral.
+>>>>>>> cabecera
